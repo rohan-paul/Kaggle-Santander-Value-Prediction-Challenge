@@ -1,4 +1,4 @@
-![](assets/Banco-Santander.jpg)
+![](assets/bank-logo.png)
 
 The evaluation metric for this competition is Root Mean Squared Logarithmic Error.
 
